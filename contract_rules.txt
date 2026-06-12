@@ -1,0 +1,19 @@
+CONTRACT STANDARDS LIBRARY
+
+Liability Clause:
+- Liability should be limited to contract value
+- Unlimited liability is HIGH RISK
+
+Termination Clause:
+- Must include notice period (minimum 30 days)
+- Missing termination clause is HIGH RISK
+
+Confidentiality Clause:
+- Must specify duration and scope
+
+Payment Terms:
+- Should define payment schedule clearly
+
+Indemnity Clause:
+- Should not be one-sided
+- Balanced indemnity is recommended
