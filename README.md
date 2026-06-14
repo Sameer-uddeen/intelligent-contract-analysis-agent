@@ -23,3 +23,5 @@ This solution uses Foundry IQ by grounding contract analysis using a clause libr
 - Reduce review time by 70%
 - Improve accuracy
 - Speed up negotiations
+
+Demo Video Link: https://vimeo.com/1201163979?fl=ip&fe=ec
